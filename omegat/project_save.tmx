@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_9319dd7c6" segtype="sentence" srclang="en"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Kos Ivantsov" changedate="20210430T082727Z" creationid="Kos Ivantsov" creationdate="20210430T082727Z">
+        <seg>MediaWiki (ᱣᱤᱠᱤᱯᱤᱰᱤᱭᱟ)</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
