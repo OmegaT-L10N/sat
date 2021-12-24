@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Filter</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20211224T075010Z" creationid="Prasanta" creationdate="20211224T075010Z">
+        <seg>ᱪᱷᱟᱹᱱᱤ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T074453Z" creationid="Prasanta" creationdate="20211224T074352Z">
