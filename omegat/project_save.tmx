@@ -70,6 +70,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Aaron Madlon-Kay</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173432Z" creationid="Prasanta" creationdate="20220104T173432Z">
+        <seg>ᱟᱨᱚᱱ ᱢᱟᱰᱞᱚᱱᱼᱠᱮᱭ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Alex Buloichik</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173452Z" creationid="Prasanta" creationdate="20220104T173452Z">
+        <seg>ᱮᱞᱮᱠᱥ ᱵᱩᱞᱚᱭᱪᱤᱠ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173523Z" creationid="Prasanta" creationdate="20220104T173523Z">
+        <seg>ᱵᱽᱨᱤᱭᱟᱠ ᱯᱤᱞᱯᱨᱮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Close</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20210915T044256Z" creationid="Prasanta" creationdate="20210915T044256Z">
@@ -86,6 +110,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Keith Godfrey</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173358Z" creationid="Prasanta" creationdate="20220104T173350Z">
+        <seg>ᱠᱮᱭᱛᱷ ᱜᱚᱰᱯᱷᱨᱭ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173559Z" creationid="Prasanta" creationdate="20220104T173559Z">
+        <seg>ᱠᱚᱥ ᱤᱣᱟᱱᱴᱥᱚᱣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>MediaWiki (Wikipedia)</seg>
       </tuv>
       <tuv lang="sat" changeid="Kos Ivantsov" changedate="20210430T082727Z" creationid="Kos Ivantsov" creationdate="20210430T082727Z">
@@ -98,6 +138,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20210915T043453Z" creationid="Prasanta" creationdate="20210915T043453Z">
         <seg>OmegaT &lt;s0&gt;ᱢᱤᱫᱴᱟᱹᱝ ᱯᱷᱨᱤ ᱛᱚᱨᱡᱚᱢᱟ ᱴᱩᱞ&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project manager</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173414Z" creationid="Prasanta" creationdate="20220104T173414Z">
+        <seg>ᱯᱨᱚᱡᱮᱠᱴ ᱢᱮᱱᱮᱡᱚᱨ</seg>
       </tuv>
     </tu>
     <tu>
@@ -158,10 +206,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173545Z" creationid="Prasanta" creationdate="20220104T173545Z">
+        <seg>ᱣᱤᱱᱥᱮᱱᱴ ᱵᱤᱰᱟᱩᱠᱥ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>We could not find the page you are looking for.</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T172821Z" creationid="Prasanta" creationdate="20220104T172821Z">
         <seg>ᱟᱢ ᱯᱟᱱᱛᱮ ᱮᱫ ᱥᱟᱦᱴᱟ ᱫᱚ ᱟᱞᱮ ᱵᱟᱞᱮ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website content authors</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173625Z" creationid="Prasanta" creationdate="20220104T173625Z">
+        <seg>ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱡᱤᱱᱤᱥ ᱠᱚ ᱨᱤᱱ ᱚᱱᱚᱞᱤᱭᱟᱹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Website manager</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T173512Z" creationid="Prasanta" creationdate="20220104T173512Z">
+        <seg>ᱣᱮᱵᱽᱥᱟᱭᱤᱴ ᱢᱮᱱᱮᱡᱚᱨ</seg>
       </tuv>
     </tu>
     <tu>
