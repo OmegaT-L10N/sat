@@ -132,6 +132,22 @@
         <seg>ᱣᱤᱰᱤᱭᱚ ᱛᱮᱭᱟᱨᱤᱭᱟᱹ &lt;a0&gt;CATguruEN&lt;/a0&gt; (ᱰᱚᱢᱤᱱᱤᱠ ᱯᱤᱣᱟᱨᱰ)</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>We could not find the page you are looking for.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T172821Z" creationid="Prasanta" creationdate="20220104T172821Z">
+        <seg>ᱟᱢ ᱯᱟᱱᱛᱮ ᱮᱫ ᱥᱟᱦᱴᱟ ᱫᱚ ᱟᱞᱮ ᱵᱟᱞᱮ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱫᱼᱟ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You can go to the &lt;a0&gt;home page&lt;/a0&gt; and hopefully find the information you need from there.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220104T172917Z" creationid="Prasanta" creationdate="20220104T172917Z">
+        <seg>ᱟᱢ ᱫᱚ &lt;a0&gt;ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱛᱮ ᱪᱟᱞᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ&lt;/a0&gt; ᱟᱨ ᱚᱱᱰᱮ ᱟᱢ ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱯᱟᱱᱛᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
