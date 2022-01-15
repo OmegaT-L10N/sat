@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>How to translate Magento</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220115T050545Z" creationid="Prasanta" creationdate="20220115T050545Z">
+        <seg>Magento ᱪᱮᱞᱠᱟᱛᱮ ᱛᱚᱨᱡᱚᱢᱟᱭᱼᱟ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keith Godfrey</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173358Z" creationid="Prasanta" creationdate="20220104T173350Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173559Z" creationid="Prasanta" creationdate="20220104T173559Z">
         <seg>ᱠᱚᱥ ᱤᱣᱟᱱᱴᱥᱚᱣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mailing lists</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220115T050345Z" creationid="Prasanta" creationdate="20220115T050345Z">
+        <seg>ᱢᱮᱞᱤᱝ ᱞᱤᱥᱴ ᱠᱚ</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173045Z" creationid="Prasanta" creationdate="20220104T173045Z">
         <seg>ᱤᱠᱟᱹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT developers' list.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220115T050427Z" creationid="Prasanta" creationdate="20220115T050427Z">
+        <seg>OmegaT ᱨᱤᱱ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨ ᱠᱚᱣᱟᱜ ᱞᱤᱥᱴᱭ ᱾</seg>
       </tuv>
     </tu>
     <tu>
