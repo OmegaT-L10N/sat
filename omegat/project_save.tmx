@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Video 1</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220120T150202Z" creationid="Prasanta" creationdate="20220120T150202Z">
+        <seg>ᱣᱤᱰᱤᱭᱚ ᱑</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20210915T044457Z" creationid="Prasanta" creationdate="20210915T044241Z">
