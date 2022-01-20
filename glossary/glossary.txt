@@ -1,0 +1,13 @@
+# Glossary in tab-separated format -*- coding: utf-8 -*-
+blog	ᱵᱞᱚᱜᱽ
+corporate	ᱠᱚᱨᱯᱚᱨᱮᱴ
+translation	ᱛᱚᱨᱡᱚᱢᱟ
+industry	ᱵᱤᱨᱤᱫ
+industry	ᱠᱟᱨᱠᱷᱟᱱᱟ
+pages	ᱥᱟᱦᱴᱟ ᱠᱚ
+English	ᱤᱝᱨᱟᱡᱤ
+manual	ᱟᱹᱱᱟᱹᱨᱤ
+manuals	ᱟᱹᱱᱟᱹᱨᱤ ᱠᱚ
+Video	ᱣᱤᱰᱤᱭᱚ
+User	ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ
+Users	ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱠᱚ
