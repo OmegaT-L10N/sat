@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_a1fd6a4d" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -82,6 +82,22 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173452Z" creationid="Prasanta" creationdate="20220104T173452Z">
         <seg>ᱮᱞᱮᱠᱥ ᱵᱩᱞᱚᱭᱪᱤᱠ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blog pages on OmegaT.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220120T144958Z" creationid="Prasanta" creationdate="20220120T144958Z">
+        <seg>OmegaT ᱨᱮ ᱵᱞᱚᱜᱽ ᱥᱟᱦᱴᱟ ᱠᱚ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220120T144715Z" creationid="Prasanta" creationdate="20220120T144715Z">
+        <seg>ᱵᱞᱚᱜᱽ ᱠᱚ</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Velior's corporate blog &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220120T144750Z" creationid="Prasanta" creationdate="20220120T144750Z">
+        <seg>Velior's ᱠᱚᱨᱯᱚᱨᱮᱴ ᱵᱞᱚᱜᱽ &lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Video by &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20210915T044457Z" creationid="Prasanta" creationdate="20210915T044241Z">
@@ -282,6 +306,22 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T172917Z" creationid="Prasanta" creationdate="20220104T172917Z">
         <seg>ᱟᱢ ᱫᱚ &lt;a0&gt;ᱚᱲᱟᱜ ᱥᱟᱦᱴᱟ ᱛᱮ ᱪᱟᱞᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ&lt;/a0&gt; ᱟᱨ ᱚᱱᱰᱮ ᱟᱢ ᱰᱷᱮᱨ ᱵᱤᱵᱨᱚᱬ ᱯᱟᱱᱛᱮ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱢ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>on translation and the &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220120T144819Z" creationid="Prasanta" creationdate="20220120T144819Z">
+        <seg>ᱛᱚᱨᱡᱚᱢᱟ ᱨᱮ ᱟᱨ &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>translation industry</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220120T144908Z" creationid="Prasanta" creationdate="20220120T144908Z">
+        <seg>ᱛᱚᱨᱡᱚᱢᱟ ᱵᱤᱨᱤᱫ</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
