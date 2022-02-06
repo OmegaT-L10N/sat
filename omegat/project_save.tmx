@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Developers</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T072420Z" creationid="Prasanta" creationdate="20220206T072420Z">
+        <seg>ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨᱥ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English version translators</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173654Z" creationid="Prasanta" creationdate="20220104T173654Z">
@@ -174,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Integration manager</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T072724Z" creationid="Prasanta" creationdate="20220206T072724Z">
+        <seg>ᱡᱩᱢᱤᱫᱤᱭᱟᱹ ᱢᱮᱱᱮᱡᱚᱨ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keith Godfrey</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173358Z" creationid="Prasanta" creationdate="20220104T173350Z">
@@ -186,6 +202,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173559Z" creationid="Prasanta" creationdate="20220104T173559Z">
         <seg>ᱠᱚᱥ ᱤᱣᱟᱱᱴᱥᱚᱣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lead developer</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T072630Z" creationid="Prasanta" creationdate="20220206T072630Z">
+        <seg>ᱢᱩᱞ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨᱥ</seg>
       </tuv>
     </tu>
     <tu>
