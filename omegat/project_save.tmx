@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Documentation manager</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T072833Z" creationid="Prasanta" creationdate="20220206T072833Z">
+        <seg>ᱠᱟᱜᱚᱡᱽ ᱥᱟᱠᱟᱢ ᱯᱟᱨᱥᱟᱞ ᱢᱮᱱᱮᱡᱚᱨ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>English version translators</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173654Z" creationid="Prasanta" creationdate="20220104T173654Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220206T072630Z" creationid="Prasanta" creationdate="20220206T072630Z">
         <seg>ᱢᱩᱞ ᱰᱮᱵᱷᱞᱚᱯᱟᱹᱨᱥ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Localization manager, user group owner</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T072920Z" creationid="Prasanta" creationdate="20220206T072920Z">
+        <seg>ᱛᱮᱨᱡᱚᱢᱤᱭᱟᱹ ᱢᱮᱱᱮᱡᱚᱨ, ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱫᱳᱞ ᱢᱟᱹᱞᱤᱠ</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +314,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173103Z" creationid="Prasanta" creationdate="20220104T173103Z">
         <seg>OmegaT ᱯᱨᱚᱡᱮᱠᱴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The philosophy of the project is described &lt;a0&gt;here&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T073042Z" creationid="Prasanta" creationdate="20220206T073042Z">
+        <seg>ᱯᱨᱚᱡᱮᱠᱴ ᱨᱮᱭᱟᱜ ᱫᱚᱨᱥᱟᱱᱚᱠ ᱡᱤᱱᱤᱥ ᱫᱚ&lt;a0&gt;ᱱᱚᱰᱮ&lt;/a0&gt; ᱢᱮᱱᱟᱜ ᱾</seg>
       </tuv>
     </tu>
     <tu>
