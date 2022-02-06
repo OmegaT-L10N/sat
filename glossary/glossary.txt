@@ -15,3 +15,5 @@ Documentation	ᱠᱟᱜᱚᱡᱽ ᱥᱟᱠᱟᱢ ᱯᱟᱨᱥᱟᱞ
 manager	ᱢᱮᱱᱮᱡᱚᱨ
 group	ᱫᱳᱞ
 owner	ᱢᱟᱹᱞᱤᱠ
+application	ᱮᱯᱞᱤᱠᱮᱥᱚᱱ
+project	ᱯᱟᱱᱛᱷᱟ
