@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Original author of the OmegaT application</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T073114Z" creationid="Prasanta" creationdate="20220206T073114Z">
+        <seg>OmegaT ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱨᱤᱱᱤᱡ ᱢᱩᱞ ᱚᱱᱚᱞᱤᱭᱟᱹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project manager</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173414Z" creationid="Prasanta" creationdate="20220104T173414Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173103Z" creationid="Prasanta" creationdate="20220104T173103Z">
         <seg>OmegaT ᱯᱨᱚᱡᱮᱠᱴ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The OmegaT project is maintained by an informal, international group of volunteers.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T073327Z" creationid="Prasanta" creationdate="20220206T073327Z">
+        <seg>OmegaT ᱯᱟᱱᱛᱷᱟ ᱫᱚ ᱥᱚᱭᱚᱝᱥᱮᱣᱚᱠ ᱨᱮᱭᱟᱜ ᱵᱤᱱᱚᱯᱪᱟᱹᱨᱤᱠ᱿ ᱡᱮᱜᱮᱛᱤᱭᱟᱹ ᱫᱳᱞ ᱠᱟᱱᱟ ᱾</seg>
       </tuv>
     </tu>
     <tu>
