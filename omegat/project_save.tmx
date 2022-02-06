@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Its purpose is to develop, distribute and support the use of OmegaT, an open-source translation memory software application.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20220206T073741Z" creationid="Prasanta" creationdate="20220206T073427Z">
+        <seg>ᱱᱚᱶᱟ ᱨᱮᱭᱟᱜ ᱩᱫᱮᱥ ᱫᱚ OmegaT ᱨᱮᱭᱟᱜ ᱛᱮᱭᱟᱨ, ᱦᱟᱹᱴᱤᱧ ᱟᱨ ᱜᱚᱲᱚ ᱮᱢᱚᱜ ᱠᱟᱱᱟ, ᱡᱟᱦᱟᱸ ᱫᱚ ᱢᱤᱫ ᱠᱷᱩᱞᱟᱹ ᱥᱨᱚᱛ ᱛᱚᱨᱡᱚᱢᱟ ᱩᱭᱦᱟᱹᱨ ᱥᱚᱯᱷᱴᱣᱮᱨ ᱮᱯᱞᱤᱠᱮᱥᱚᱱ ᱠᱟᱱᱟ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Keith Godfrey</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173358Z" creationid="Prasanta" creationdate="20220104T173350Z">
