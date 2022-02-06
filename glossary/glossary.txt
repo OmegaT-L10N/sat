@@ -11,3 +11,7 @@ manuals	ᱟᱹᱱᱟᱹᱨᱤ ᱠᱚ
 Video	ᱣᱤᱰᱤᱭᱚ
 User	ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ
 Users	ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱠᱚ
+Documentation	ᱠᱟᱜᱚᱡᱽ ᱥᱟᱠᱟᱢ ᱯᱟᱨᱥᱟᱞ
+manager	ᱢᱮᱱᱮᱡᱚᱨ
+group	ᱫᱳᱞ
+owner	ᱢᱟᱹᱞᱤᱠ
