@@ -17,3 +17,5 @@ group	ᱫᱳᱞ
 owner	ᱢᱟᱹᱞᱤᱠ
 application	ᱮᱯᱞᱤᱠᱮᱥᱚᱱ
 project	ᱯᱟᱱᱛᱷᱟ
+OmegaT	OmegaT
+software	ᱥᱚᱯᱷᱴᱣᱮᱨ
