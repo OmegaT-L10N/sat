@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240529T030643Z" creationid="Prasanta" creationdate="20240529T030643Z">
+        <seg>&amp;ᱥᱮᱞᱮᱫᱢᱮ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T074456Z" creationid="Prasanta" creationdate="20211224T074412Z">
