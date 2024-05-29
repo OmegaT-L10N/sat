@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="en"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="6.0.0_0_1bf1729c" segtype="sentence" srclang="en"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT options:</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240529T025507Z" creationid="Prasanta" creationdate="20240529T025507Z">
+        <seg>OmegaT ᱵᱟᱪᱷᱟᱣᱠᱚ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Original author of the OmegaT application</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220206T073114Z" creationid="Prasanta" creationdate="20220206T073114Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173414Z" creationid="Prasanta" creationdate="20220104T173414Z">
         <seg>ᱯᱨᱚᱡᱮᱠᱴ ᱢᱮᱱᱮᱡᱚᱨ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Project path only: Launch GUI and load specified project.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240529T025947Z" creationid="Prasanta" creationdate="20240529T025947Z">
+        <seg>ᱯᱟᱱᱛᱷᱟ path only: Launch GUI and load specified ᱯᱟᱱᱛᱷᱟ.</seg>
       </tuv>
     </tu>
     <tu>
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T145818Z" creationid="Prasanta" creationdate="20220120T145818Z">
         <seg>ᱴᱨᱮᱱᱤᱝ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240529T025455Z" creationid="Prasanta" creationdate="20240529T025455Z">
+        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;ᱯᱟᱱᱛᱷᱟ path&gt;]</seg>
       </tuv>
     </tu>
     <tu>
