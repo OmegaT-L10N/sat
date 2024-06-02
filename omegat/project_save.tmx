@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Edit...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T083647Z" creationid="Prasanta" creationdate="20240602T083647Z">
+        <seg>ᱥᱟᱯᱲᱟᱣ... (&amp;E)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Filter</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T075010Z" creationid="Prasanta" creationdate="20211224T075010Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T082655Z" creationid="Prasanta" creationdate="20240602T082655Z">
         <seg>ᱪᱟᱵᱟ (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Insert</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T083746Z" creationid="Prasanta" creationdate="20240602T083746Z">
+        <seg>ᱥᱚᱜᱮ ᱢᱮ (&amp;I)</seg>
       </tuv>
     </tu>
     <tu>
@@ -98,6 +114,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T082618Z" creationid="Prasanta" creationdate="20240602T082618Z">
         <seg>ᱵᱚᱫᱚᱞᱢᱮ ᱟᱨ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢᱟᱜ ᱯᱟᱱᱛᱮ ᱢᱮ (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Save As...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T083819Z" creationid="Prasanta" creationdate="20240602T083819Z">
+        <seg>ᱞᱮᱠᱷᱟ ᱥᱟᱺᱪᱟᱣ ᱢᱮ (&amp;S)</seg>
       </tuv>
     </tu>
     <tu>
@@ -418,6 +442,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T075030Z" creationid="Prasanta" creationdate="20211224T075030Z">
         <seg>ᱡᱷᱚᱛᱚ ᱵᱚᱫᱚᱞ ᱢᱮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Restore De&amp;faults</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T083722Z" creationid="Prasanta" creationdate="20240602T083722Z">
+        <seg>ᱢᱩᱞᱟᱜᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ (&amp;f)</seg>
       </tuv>
     </tu>
     <tu>
