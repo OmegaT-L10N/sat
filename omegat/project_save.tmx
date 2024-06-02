@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Confirm</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T083909Z" creationid="Prasanta" creationdate="20240602T083909Z">
+        <seg>ᱴᱷᱟᱹᱣᱠᱟᱹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220206T072420Z" creationid="Prasanta" creationdate="20220206T072420Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173654Z" creationid="Prasanta" creationdate="20220104T173654Z">
         <seg>ᱤᱝᱨᱟᱡᱤ ᱦᱟᱹᱞᱤᱭᱟᱹᱠ ᱛᱚᱨᱡᱚᱢᱟᱤᱭᱟᱹ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T083856Z" creationid="Prasanta" creationdate="20240602T083856Z">
+        <seg>ᱵᱷᱩᱞ</seg>
       </tuv>
     </tu>
     <tu>
@@ -402,6 +418,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240529T025507Z" creationid="Prasanta" creationdate="20240529T025507Z">
         <seg>OmegaT ᱵᱟᱪᱷᱟᱣᱠᱚ:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT ran out of memory and will close when you click OK.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T084105Z" creationid="Prasanta" creationdate="20240602T084105Z">
+        <seg>OmegaT ᱨᱮᱭᱟᱜ ᱢᱮᱢᱚᱨᱤ ᱢᱩᱪᱟᱹᱫ ᱮᱱᱟ ᱟᱨ ᱟᱢ ᱡᱚᱠᱷᱚᱱ ᱴᱷᱤᱠ ᱨᱮ ᱚᱛᱟ ᱞᱮᱠᱷᱟᱱ ᱵᱚᱸᱫᱚᱜᱼᱟ ᱾</seg>
       </tuv>
     </tu>
     <tu>
