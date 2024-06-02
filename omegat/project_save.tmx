@@ -6,10 +6,18 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>&amp;Add</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082751Z" creationid="Prasanta" creationdate="20240602T082751Z">
+        <seg>ᱥᱮᱞᱮᱫ (&amp;A)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Add...</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20240529T030643Z" creationid="Prasanta" creationdate="20240529T030643Z">
-        <seg>&amp;ᱥᱮᱞᱮᱫᱢᱮ...</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082740Z" creationid="Prasanta" creationdate="20240529T030643Z">
+        <seg>ᱥᱮᱞᱮᱫᱢᱮ... (&amp;A)</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Finish</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082655Z" creationid="Prasanta" creationdate="20240602T082655Z">
+        <seg>ᱪᱟᱵᱟ (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T074453Z" creationid="Prasanta" creationdate="20211224T074352Z">
@@ -56,8 +72,16 @@
       <tuv lang="en">
         <seg>&amp;Remove</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20211224T075054Z" creationid="Prasanta" creationdate="20211224T075054Z">
-        <seg>ᱚᱪᱚᱜᱽ ᱢᱮ</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082722Z" creationid="Prasanta" creationdate="20211224T075054Z">
+        <seg>ᱚᱪᱚᱜᱽ ᱢᱮ (&amp;R)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Remove Filter</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082713Z" creationid="Prasanta" creationdate="20240602T082713Z">
+        <seg>ᱪᱷᱟᱹᱱᱤᱭᱟᱜ ᱥᱟᱦᱟᱭ ᱢᱮ (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
@@ -146,6 +170,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20210915T043547Z" creationid="Prasanta" creationdate="20210915T043547Z">
         <seg>&lt;a0&gt;ᱰᱟᱩᱱᱞᱚᱰ&lt;/a0&gt; &lt;a1&gt;ᱮᱦᱮᱵ ᱞᱮᱜᱮᱵᱚ&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>A&amp;dd</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T083624Z" creationid="Prasanta" creationdate="20240602T083624Z">
+        <seg>ᱥᱮᱞᱮᱫ (&amp;d)</seg>
       </tuv>
     </tu>
     <tu>
@@ -376,8 +408,8 @@
       <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20211224T075107Z" creationid="Prasanta" creationdate="20211224T075107Z">
-        <seg>ᱚᱪᱚᱜᱽ ᱢᱮ</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082731Z" creationid="Prasanta" creationdate="20211224T075107Z">
+        <seg>ᱚᱪᱚᱜᱽ ᱢᱮ (&amp;e)</seg>
       </tuv>
     </tu>
     <tu>
