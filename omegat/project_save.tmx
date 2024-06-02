@@ -94,6 +94,28 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>--no-team
+	  Disable team project functionality.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T023351Z" creationid="Prasanta" creationdate="20240602T023351Z">
+        <seg>--no-team
+	  ᱫᱳᱞ ᱯᱟᱱᱛᱷᱟ ᱠᱟᱹᱢᱤᱦᱚᱨᱟ ᱵᱚᱸᱫᱚᱭ ᱢᱮ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>--remote-project
+	  Download an omegat.project file from the URL given as &lt;project
+	  path&gt; and load the project.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T023250Z" creationid="Prasanta" creationdate="20240602T023250Z">
+        <seg>--remote-project
+	  omegat.project ᱨᱮᱫ ᱫᱚ ᱮᱢ ᱠᱟᱱ URL &lt;ᱯᱟᱱᱛᱷᱟ
+	  ᱦᱚᱨ&gt; ᱠᱷᱚᱱ ᱰᱟᱣᱱᱞᱚᱰ ᱢᱮ ᱟᱨ ᱯᱟᱱᱛᱷᱟ ᱞᱟᱫᱮ ᱢᱮ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>-h, --help
 	  Print this help message.</seg>
       </tuv>
@@ -540,6 +562,16 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T144819Z" creationid="Prasanta" creationdate="20220120T144819Z">
         <seg>ᱛᱚᱨᱡᱚᱢᱟ ᱨᱮ ᱟᱨ &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>team init &lt;source language&gt; &lt;target language&gt;
+	  Team project tool.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T023534Z" creationid="Prasanta" creationdate="20240602T023534Z">
+        <seg>ᱫᱳᱞ init &lt;source language&gt; &lt;target language&gt;
+	  ᱫᱳᱞ ᱯᱟᱱᱛᱷᱟ ᱦᱟᱹᱛᱤᱭᱟᱹᱨ ᱾</seg>
       </tuv>
     </tu>
     <tu>
