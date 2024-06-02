@@ -416,8 +416,8 @@
       <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20240529T025455Z" creationid="Prasanta" creationdate="20240529T025455Z">
-        <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;ᱯᱟᱱᱛᱷᱟ path&gt;]</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T022538Z" creationid="Prasanta" creationdate="20240529T025455Z">
+        <seg>ᱵᱮᱵᱷᱟᱨ: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
     </tu>
     <tu>
