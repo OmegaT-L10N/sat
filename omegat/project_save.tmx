@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Find Next</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082525Z" creationid="Prasanta" creationdate="20240602T082525Z">
+        <seg>ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢᱟᱜ ᱯᱟᱱᱛᱮ (&amp;F)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T074453Z" creationid="Prasanta" creationdate="20211224T074352Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T075016Z" creationid="Prasanta" creationdate="20211224T075016Z">
         <seg>ᱵᱚᱫᱚᱞ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Replace and Find Next</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082618Z" creationid="Prasanta" creationdate="20240602T082618Z">
+        <seg>ᱵᱚᱫᱚᱞᱢᱮ ᱟᱨ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢᱟᱜ ᱯᱟᱱᱛᱮ ᱢᱮ (&amp;R)</seg>
       </tuv>
     </tu>
     <tu>
