@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialize a minimal team project with the specified languages.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T033033Z" creationid="Prasanta" creationdate="20240602T033033Z">
+        <seg>Initialize a minimal team ᱯᱟᱱᱛᱷᱟ with the specified languages.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220206T072724Z" creationid="Prasanta" creationdate="20220206T072724Z">
