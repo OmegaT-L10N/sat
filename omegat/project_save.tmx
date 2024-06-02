@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>See Help &gt; User Manual for details, including available Java options.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20240602T022514Z" creationid="Prasanta" creationdate="20240602T022514Z">
+        <seg>ᱜᱚᱲᱚ ᱧᱮᱞ ᱢᱮ &gt; ᱟᱨᱦᱚᱸ ᱵᱟᱹᱲᱛᱤ ᱵᱟᱲᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱟᱹᱱᱟᱹᱨᱤ ᱧᱮᱞ ᱢᱮ, Java ᱵᱟᱪᱷᱟᱣ ᱢᱮᱥᱟ ᱟᱛᱮᱫ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T075036Z" creationid="Prasanta" creationdate="20211224T075036Z">
