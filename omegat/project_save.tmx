@@ -318,6 +318,15 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>If invoked in a git working tree or svn checkout, the results
+	  will be staged/added.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T182151Z" creationid="Prasanta" creationdate="20260114T182151Z">
+        <seg>ᱡᱩᱫᱤ git ᱠᱟᱹᱢᱤ ᱛᱷᱚᱠ ᱠᱚ ᱧᱮᱞ ᱠᱟᱛᱮ ᱟᱨ ᱵᱟᱝ ᱵᱮᱱᱰᱤᱝ svn ᱨᱮ ᱦᱚᱦᱚ ᱞᱮᱠᱷᱟᱱ, ᱛᱮᱞᱟᱠᱚᱫᱚ ᱥᱴᱮᱡᱽ ᱥᱮ ᱥᱮᱞᱮᱫᱚᱜᱼᱟ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260114T181436Z" creationid="Prasanta" creationdate="20240602T033033Z">
