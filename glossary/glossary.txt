@@ -19,3 +19,4 @@ application	ᱮᱯᱞᱤᱠᱮᱥᱚᱱ
 project	ᱯᱟᱱᱛᱷᱟ
 OmegaT	OmegaT
 software	ᱥᱚᱯᱷᱴᱣᱮᱨ
+languages	ᱯᱟᱹᱨᱥᱤᱠᱚ
