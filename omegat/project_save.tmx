@@ -320,8 +320,8 @@
       <tuv lang="en">
         <seg>Initialize a minimal team project with the specified languages.</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20240602T033033Z" creationid="Prasanta" creationdate="20240602T033033Z">
-        <seg>Initialize a minimal team ᱯᱟᱱᱛᱷᱟ with the specified languages.</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T181436Z" creationid="Prasanta" creationdate="20240602T033033Z">
+        <seg>ᱜᱚᱴᱟᱵᱩᱴᱟᱹ ᱯᱟᱹᱨᱥᱤᱠᱚ ᱥᱟᱶ ᱢᱤᱫᱴᱟᱹᱝ ᱦᱩᱰᱤᱧ ᱜᱟᱫᱮᱞ ᱯᱟᱱᱛᱷᱟ ᱮᱛᱚᱦᱚᱵ ᱢᱮ ᱾</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +394,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T023053Z" creationid="Prasanta" creationdate="20240602T023053Z">
         <seg>ᱵᱟᱪᱷᱟᱣ ᱵᱟᱹᱱᱩᱜ ᱠᱟᱫᱟ: GUI ᱯᱟᱨᱥᱟᱞ ᱢᱮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OmegaT</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T180911Z" creationid="Prasanta" creationdate="20260114T180911Z">
+        <seg>OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -568,8 +576,8 @@
       <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20240602T022538Z" creationid="Prasanta" creationdate="20240529T025455Z">
-        <seg>ᱵᱮᱵᱷᱟᱨ: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T181002Z" creationid="Prasanta" creationdate="20240529T025455Z">
+        <seg>ᱵᱮᱵᱷᱟᱨ : java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
     </tu>
     <tu>
@@ -692,6 +700,46 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T144908Z" creationid="Prasanta" creationdate="20220120T144908Z">
         <seg>ᱛᱚᱨᱡᱚᱢᱟ ᱵᱤᱨᱤᱫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T180932Z" creationid="Prasanta" creationdate="20260114T180932Z">
+        <seg>{0} {1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T180934Z" creationid="Prasanta" creationdate="20260114T180934Z">
+        <seg>{0} {1}_{2}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T180931Z" creationid="Prasanta" creationdate="20260114T180931Z">
+        <seg>{0}-{1}_{2}_{3}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T180929Z" creationid="Prasanta" creationdate="20260114T180929Z">
+        <seg>{0}_{1}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}_{1}_{2}</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260114T180927Z" creationid="Prasanta" creationdate="20260114T180927Z">
+        <seg>{0}_{1}_{2}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
