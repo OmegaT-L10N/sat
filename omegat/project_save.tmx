@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy error to clipboard</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173213Z" creationid="Prasanta" creationdate="20260715T173213Z">
+        <seg>ᱠᱞᱤᱯᱵᱚᱨᱰ ᱨᱮ ᱱᱚᱠᱚᱞ ᱦᱩᱰᱟᱹᱜ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Developers</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220206T072420Z" creationid="Prasanta" creationdate="20220206T072420Z">
@@ -698,6 +706,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The project is empty</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172937Z" creationid="Prasanta" creationdate="20260715T172937Z">
+        <seg>ᱯᱟᱱᱛᱷᱟ ᱫᱚ ᱠᱷᱟᱹᱞᱤ ᱜᱮᱭᱟ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To add files to the project you can:</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260715T172429Z" creationid="Prasanta" creationdate="20260715T172429Z">
@@ -801,6 +817,14 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173545Z" creationid="Prasanta" creationdate="20220104T173545Z">
         <seg>ᱣᱤᱱᱥᱮᱱᱴ ᱵᱤᱰᱟᱩᱠᱥ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172943Z" creationid="Prasanta" creationdate="20260715T172943Z">
+        <seg>ᱦᱩᱥᱤᱭᱟᱹᱨ</seg>
       </tuv>
     </tu>
     <tu>
