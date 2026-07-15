@@ -335,6 +335,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Initialized {0}-{1} team project.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T164521Z" creationid="Prasanta" creationdate="20260715T164521Z">
+        <seg>ᱮᱦᱚᱵ ᱟᱠᱟᱱ {0}-{1} ᱫᱚᱞ ᱯᱟᱱᱛᱷᱟ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Integration manager</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220206T072724Z" creationid="Prasanta" creationdate="20220206T072724Z">
