@@ -182,6 +182,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- verify that their format is supported by OmegaT:
+	  if local filter settings are enabled
+	  use Project &gt; Properties... &gt; Local File Filters...,
+	  otherwise use Options &gt; Global File Filters...;
+	- open them in their original application and verify that they are not empty.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172924Z" creationid="Prasanta" creationdate="20260715T172924Z">
+        <seg>ᱼ ᱯᱩᱥᱴᱟᱹᱣ ᱢᱮ ᱡᱮ ᱩᱱᱠᱩᱣᱟᱜ ᱯᱷᱚᱨᱢᱟᱴ OmegaT ᱦᱚᱛᱮᱛᱮ ᱥᱚᱦᱚᱫ ᱢᱮᱱᱟᱜᱼᱟ:
+	ᱡᱩᱫᱤ ᱞᱚᱠᱟᱞ ᱯᱷᱤᱞᱴᱟᱨ ᱥᱮᱴᱤᱝ ᱠᱚ ᱪᱟᱹᱞᱩ ᱜᱮᱭᱟ
+	ᱯᱨᱚᱡᱮᱠᱴ ᱵᱮᱵᱷᱟᱨ ᱢᱮ&gt; ᱜᱩᱱᱠᱚ...&gt; ᱞᱚᱠᱟᱞ ᱨᱮᱫ ᱯᱷᱤᱞᱴᱟᱨᱥ...,
+	ᱟᱨ ᱵᱟᱝᱠᱷᱟᱱ ᱚᱯᱥᱚᱱ ᱠᱚ ᱵᱮᱵᱷᱟᱨ ᱢᱮ &gt; ᱜᱞᱚᱵᱟᱞ ᱨᱮᱫ ᱯᱷᱤᱞᱴᱟᱨᱥ...;
+	ᱼ ᱚᱱᱟ ᱠᱚ ᱟᱠᱚᱣᱟᱜ ᱟᱥᱚᱞ ᱟᱹᱨᱡᱤ ᱥᱟᱠᱟᱢ ᱨᱮ ᱡᱷᱤᱡᱽ ᱢᱮ ᱟᱨ ᱯᱩᱥᱴᱟᱹᱣ ᱢᱮ ᱡᱮ ᱚᱱᱟ ᱠᱚ ᱠᱷᱟᱹᱞᱤ ᱵᱟᱝ ᱠᱟᱱᱟ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -379,6 +395,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260114T182151Z" creationid="Prasanta" creationdate="20260114T182151Z">
         <seg>ᱡᱩᱫᱤ git ᱠᱟᱹᱢᱤ ᱛᱷᱚᱠ ᱠᱚ ᱧᱮᱞ ᱠᱟᱛᱮ ᱟᱨ ᱵᱟᱝ ᱵᱮᱱᱰᱤᱝ svn ᱨᱮ ᱦᱚᱦᱚ ᱞᱮᱠᱷᱟᱱ, ᱛᱮᱞᱟᱠᱚᱫᱚ ᱥᱴᱮᱡᱽ ᱥᱮ ᱥᱮᱞᱮᱫᱚᱜᱼᱟ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>If the project contains files but their content is not displayed here:</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172729Z" creationid="Prasanta" creationdate="20260715T172729Z">
+        <seg>ᱡᱩᱫᱤ ᱯᱟᱱᱛᱷᱟ ᱨᱮ ᱨᱮᱫᱽ ᱠᱚ ᱢᱮᱱᱟᱜᱼᱟ ᱢᱮᱱᱠᱷᱟᱱ ᱚᱱᱟ ᱨᱮᱭᱟᱜ ᱡᱤᱱᱤᱥ ᱱᱚᱸᱰᱮ ᱵᱟᱝ ᱩᱫᱩᱜᱚᱜᱼᱟ :</seg>
       </tuv>
     </tu>
     <tu>
