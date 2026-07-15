@@ -642,6 +642,17 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Use "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" from the command 
+line or in the OmegaT start script;
+The current setting is {0}MB;</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T170456Z" creationid="Prasanta" creationdate="20260715T170456Z">
+        <seg>ᱠᱚᱢᱟᱱᱰ ᱞᱟᱹᱭᱤᱱ ᱠᱷᱚᱱ "java -Xmx&lt;size-in-MB&gt;M -jar OmegaT.jar" ᱵᱮᱵᱷᱟᱨ ᱢᱮ ᱵᱟᱝᱠᱷᱟᱱ OmegaT ᱮᱛᱚᱦᱚᱵ ᱥᱠᱨᱤᱯᱴ ᱨᱮ ᱵᱮᱵᱷᱟᱨ ᱢᱮ;
+ᱱᱤᱛᱚᱜ ᱥᱮᱴᱤᱝ ᱫᱚ {0}MB ᱠᱟᱱᱟ;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>User group</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173711Z" creationid="Prasanta" creationdate="20220104T173711Z">
