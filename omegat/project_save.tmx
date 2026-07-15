@@ -24,16 +24,16 @@
       <tuv lang="en">
         <seg>&amp;Cancel</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20211224T074456Z" creationid="Prasanta" creationdate="20211224T074412Z">
-        <seg>ᱵᱟᱹᱰᱨᱟᱹ</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165456Z" creationid="Prasanta" creationdate="20211224T074412Z">
+        <seg>ᱵ&amp;ᱟᱹᱰᱨᱟᱹ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20211224T074624Z" creationid="Prasanta" creationdate="20211224T074624Z">
-        <seg>ᱵᱚᱸᱱᱫ</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165451Z" creationid="Prasanta" creationdate="20211224T074624Z">
+        <seg>&amp;ᱵᱚᱸᱱᱫ</seg>
       </tuv>
     </tu>
     <tu>
@@ -128,8 +128,16 @@
       <tuv lang="en">
         <seg>&amp;Search</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20211224T075043Z" creationid="Prasanta" creationdate="20211224T075043Z">
-        <seg>ᱥᱮᱸᱫᱽᱨᱟ</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165442Z" creationid="Prasanta" creationdate="20211224T075043Z">
+        <seg>&amp;ᱥᱮᱸᱫᱽᱨᱟ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Show Replacements</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165434Z" creationid="Prasanta" creationdate="20260715T165434Z">
+        <seg>ᱵᱚᱫᱚᱞ ᱠᱚ ᱩᱫᱩᱜ ᱢᱮ</seg>
       </tuv>
     </tu>
     <tu>
