@@ -56,15 +56,15 @@
       <tuv lang="en">
         <seg>&amp;Find Next</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082525Z" creationid="Prasanta" creationdate="20240602T082525Z">
-        <seg>ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢᱟᱜ ᱯᱟᱱᱛᱮ (&amp;F)</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165532Z" creationid="Prasanta" creationdate="20240602T082525Z">
+        <seg>ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢᱟᱜ ᱯᱟᱱᱛᱮ</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="en">
         <seg>&amp;Finish</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082655Z" creationid="Prasanta" creationdate="20240602T082655Z">
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165612Z" creationid="Prasanta" creationdate="20240602T082655Z">
         <seg>ᱪᱟᱵᱟ (&amp;F)</seg>
       </tuv>
     </tu>
@@ -80,8 +80,8 @@
       <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20211224T074453Z" creationid="Prasanta" creationdate="20211224T074352Z">
-        <seg>ᱴᱷᱤᱠ</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165459Z" creationid="Prasanta" creationdate="20211224T074352Z">
+        <seg>&amp;ᱴᱷᱤᱠ</seg>
       </tuv>
     </tu>
     <tu>
@@ -112,8 +112,8 @@
       <tuv lang="en">
         <seg>&amp;Replace and Find Next</seg>
       </tuv>
-      <tuv lang="sat" changeid="Prasanta" changedate="20240602T082618Z" creationid="Prasanta" creationdate="20240602T082618Z">
-        <seg>ᱵᱚᱫᱚᱞᱢᱮ ᱟᱨ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢᱟᱜ ᱯᱟᱱᱛᱮ ᱢᱮ (&amp;R)</seg>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165541Z" creationid="Prasanta" creationdate="20240602T082618Z">
+        <seg>ᱵᱚᱫᱚᱞᱢᱮ ᱟᱨ ᱤᱱᱟᱹ ᱛᱟᱭᱚᱢᱟᱜ ᱯᱟᱱᱛᱮ ᱢᱮ</seg>
       </tuv>
     </tu>
     <tu>
@@ -194,6 +194,14 @@
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T023125Z" creationid="Prasanta" creationdate="20240602T023125Z">
         <seg>-h, --help
 	  ᱱᱚᱶᱟ ᱜᱚᱲᱚ ᱠᱷᱚᱵᱚᱨ ᱪᱷᱟᱯᱟᱭ ᱢᱮ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>1) Reduce the number of files in the source folder;</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165817Z" creationid="Prasanta" creationdate="20260715T165817Z">
+        <seg>᱑) ᱥᱨᱚᱛ ᱯᱚᱴᱚᱢ ᱨᱮ ᱨᱮᱫᱽ ᱠᱚ ᱨᱮᱭᱟᱜ ᱮᱞ ᱠᱚᱢ ᱪᱷᱚᱭ ᱢᱮ;</seg>
       </tuv>
     </tu>
     <tu>
@@ -478,6 +486,14 @@ everything.</seg>
       <tuv lang="sat" changeid="Prasanta" changedate="20260715T165005Z" creationid="Prasanta" creationdate="20260715T165005Z">
         <seg>ᱥᱨᱚᱛ ᱨᱮᱫ ᱠᱚ ./source ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱟᱨ ᱥᱚᱯᱞᱤᱢᱮᱱᱴᱟᱨᱤ
 ᱡᱤᱱᱤᱥ ᱫᱚ ./tm, ./glossary ᱨᱮ, ᱟᱨ ./dictionary ᱨᱮ ᱞᱟᱹᱠᱛᱤ ᱞᱮᱠᱟ ᱡᱤᱱᱤᱥ ᱫᱚᱦᱚ ᱠᱟᱛᱮ ᱠᱚᱢᱤᱴ ᱢᱮ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Possible solutions:</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165723Z" creationid="Prasanta" creationdate="20260715T165723Z">
+        <seg>ᱥᱚᱢᱵᱷᱚᱵ ᱥᱚᱢᱟᱫᱷᱟᱱ :</seg>
       </tuv>
     </tu>
     <tu>
