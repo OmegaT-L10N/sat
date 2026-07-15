@@ -519,6 +519,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OmegaT automatically chose the 'Yes' option.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173532Z" creationid="Prasanta" creationdate="20260715T173532Z">
+        <seg>OmegaT ᱟᱡ ᱛᱮᱜᱮ 'ᱦᱮᱸ' ᱵᱤᱠᱚᱞᱯ ᱵᱟᱪᱷᱟᱣ ᱠᱮᱫᱟᱭ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OmegaT is supplied with a comprehensive user manual.</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T145706Z" creationid="Prasanta" creationdate="20220120T145706Z">
