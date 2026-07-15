@@ -78,10 +78,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;New...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173650Z" creationid="Prasanta" creationdate="20260715T173650Z">
+        <seg>ᱱᱟᱣᱟ... (&amp;N)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;OK</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260715T165459Z" creationid="Prasanta" creationdate="20211224T074352Z">
         <seg>&amp;ᱴᱷᱤᱠ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>&amp;Project</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173627Z" creationid="Prasanta" creationdate="20260715T173627Z">
+        <seg>ᱯᱟᱱᱛᱷᱟ (&amp;P)</seg>
       </tuv>
     </tu>
     <tu>
@@ -350,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Do&amp;wnload Team Project...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173800Z" creationid="Prasanta" creationdate="20260715T173800Z">
+        <seg>ᱫᱚᱞ ᱯᱟᱱᱛᱷᱟ ᱰᱟᱣᱱᱞᱳᱰ ᱢᱮ... (&amp;w)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Documentation manager</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220206T072833Z" creationid="Prasanta" creationdate="20220206T072833Z">
@@ -378,6 +402,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260715T172310Z" creationid="Prasanta" creationdate="20260715T172310Z">
         <seg>{0} ᱛᱮ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱥᱠᱨᱤᱯᱴ ᱱᱚᱠᱚᱞ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>GO</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173549Z" creationid="Prasanta" creationdate="20260715T173549Z">
+        <seg>GO</seg>
       </tuv>
     </tu>
     <tu>
@@ -578,6 +610,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Project files:</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173609Z" creationid="Prasanta" creationdate="20260715T173609Z">
+        <seg>ᱯᱟᱱᱛᱷᱟ ᱨᱮᱫᱽ ᱠᱚ ᱺ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project manager</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173414Z" creationid="Prasanta" creationdate="20220104T173414Z">
@@ -654,6 +694,14 @@ everything.</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20211224T075036Z" creationid="Prasanta" creationdate="20211224T075036Z">
         <seg>ᱵᱟᱪᱷᱟᱣ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select Project</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T173544Z" creationid="Prasanta" creationdate="20260715T173544Z">
+        <seg>ᱯᱟᱱᱛᱷᱟ ᱵᱟᱪᱷᱟᱣ ᱢᱮ</seg>
       </tuv>
     </tu>
     <tu>
