@@ -166,6 +166,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>- drag and drop files on this pane;
+	- use Project &gt; Add Files...;
+	- use Project &gt; Source Files... and click on Add Files...;
+	- use your file manager to copy files to the 'source' folder,
+	  and then use Project &gt; Reload to reload the project.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172707Z" creationid="Prasanta" creationdate="20260715T172707Z">
+        <seg>- ᱱᱚᱣᱟ ᱯᱮᱱ ᱨᱮ ᱨᱮᱫ ᱠᱚ ᱚᱨ ᱫᱚᱦᱚᱭ ᱢᱮ;
+	- ᱯᱟᱱᱛᱷᱟ ᱵᱮᱵᱷᱟᱨ ᱢᱮ &gt; ᱨᱮᱫ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ...;
+	- ᱯᱟᱱᱛᱷᱟ ᱵᱮᱵᱷᱟᱨ ᱢᱮ &gt; ᱥᱨᱚᱛ ᱨᱮᱫ ᱠᱚ... ᱟᱨ ᱨᱮᱫ ᱠᱚ ᱡᱚᱯᱲᱟᱣ ᱨᱮ ᱚᱛᱟᱭ ᱢᱮ...;
+	- ᱟᱢᱟᱜ ᱨᱮᱫ ᱢᱮᱱᱮᱡᱟᱨ ᱵᱮᱵᱷᱟᱨ ᱠᱟᱛᱮ ᱨᱮᱫ ᱠᱚ 'ᱥᱚᱨᱥ' ᱯᱷᱚᱞᱰᱟᱨ ᱨᱮ ᱠᱚᱯᱤ ᱢᱮ,
+	ᱟᱨ ᱛᱟᱭᱚᱢ ᱯᱟᱱᱛᱷᱟ ᱵᱮᱵᱷᱟᱨ ᱢᱮ &gt; ᱯᱟᱱᱛᱷᱟ ᱫᱚᱦᱲᱟ ᱞᱳᱰ ᱞᱟᱹᱜᱤᱫ ᱫᱩᱦᱲᱟᱹ ᱞᱳᱰ ᱢᱮ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>--no-team
 	  Disable team project functionality.</seg>
       </tuv>
@@ -658,6 +674,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>To add files to the project you can:</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172429Z" creationid="Prasanta" creationdate="20260715T172429Z">
+        <seg>ᱯᱟᱱᱛᱷᱟ ᱨᱮ ᱨᱮᱫᱽ ᱠᱚ ᱥᱮᱞᱮᱫ ᱞᱟᱹᱜᱤᱫ ᱟᱢ :</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>To call up the manual from within OmegaT, simply select Help &gt; Users manual, or press F1.</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T150411Z" creationid="Prasanta" creationdate="20220120T150411Z">
@@ -789,6 +813,14 @@ The current setting is {0}MB;</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Your project does not seem to contain translatable files.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172356Z" creationid="Prasanta" creationdate="20260715T172356Z">
+        <seg>ᱟᱢᱟᱜ ᱯᱨᱚᱡᱮᱠᱴ ᱨᱮ ᱛᱚᱨᱡᱚᱢᱟ ᱞᱮᱠᱟᱱ ᱨᱮᱫ ᱠᱚ ᱵᱟᱝ ᱧᱮᱞᱚᱜ ᱠᱟᱱᱟ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>on translation and the &lt;br1/&gt;</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T144819Z" creationid="Prasanta" creationdate="20220120T144819Z">
@@ -811,6 +843,16 @@ The current setting is {0}MB;</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T144908Z" creationid="Prasanta" creationdate="20220120T144908Z">
         <seg>ᱛᱚᱨᱡᱚᱢᱟ ᱵᱤᱨᱤᱫ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>{0}
+{1} (started on {2} {3}) Locale {4}</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172345Z" creationid="Prasanta" creationdate="20260715T172345Z">
+        <seg>{0}
+{1} ({2} {3}) ᱯᱟᱹᱨᱥᱤ {4} ᱨᱮ ᱵᱟᱛᱟᱣ ᱠᱟᱱᱟ</seg>
       </tuv>
     </tu>
     <tu>
