@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&lt;auto&gt;</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T171814Z" creationid="Prasanta" creationdate="20260715T171814Z">
+        <seg>&lt;ᱟᱡ ᱛᱮ&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>A&amp;dd</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T083624Z" creationid="Prasanta" creationdate="20240602T083624Z">
@@ -322,6 +330,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T083856Z" creationid="Prasanta" creationdate="20240602T083856Z">
         <seg>ᱵᱷᱩᱞ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Failed to copy user scripts to {0}.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T172310Z" creationid="Prasanta" creationdate="20260715T172310Z">
+        <seg>{0} ᱛᱮ ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱥᱠᱨᱤᱯᱴ ᱱᱚᱠᱚᱞ ᱨᱮ ᱰᱤᱜᱟᱹᱣ ᱮᱱᱟ ᱾ ᱾</seg>
       </tuv>
     </tu>
     <tu>
@@ -542,6 +558,30 @@ everything.</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T083722Z" creationid="Prasanta" creationdate="20240602T083722Z">
         <seg>ᱢᱩᱞᱟᱜᱠᱚ ᱫᱩᱦᱲᱟᱹ ᱫᱚᱦᱚᱭ ᱢᱮ (&amp;f)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Run OmegaT" in the user manual.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T170559Z" creationid="Prasanta" creationdate="20260715T170559Z">
+        <seg>OmegaT ᱠᱚ ᱪᱟᱹᱞᱩᱭᱟ" ᱵᱮᱵᱷᱟᱨᱤᱭᱟᱹ ᱢᱮᱱᱭᱩᱞ ᱨᱮ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Running on Java {0} ({1}-bit)</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T170627Z" creationid="Prasanta" creationdate="20260715T170627Z">
+        <seg>Java {0} ({1}-bit ᱨᱮ ᱪᱟᱹᱞᱩ ᱠᱟᱱ)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>See "How To...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T170532Z" creationid="Prasanta" creationdate="20260715T170532Z">
+        <seg>ᱧᱮᱞᱢᱮ "ᱪᱮᱫ ᱞᱮᱠᱷᱟᱛᱮ...</seg>
       </tuv>
     </tu>
     <tu>
