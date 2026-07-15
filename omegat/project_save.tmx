@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Open...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T174440Z" creationid="Prasanta" creationdate="20260715T174440Z">
+        <seg>ᱡᱷᱤᱡᱽ... (&amp;O)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Project</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260715T173627Z" creationid="Prasanta" creationdate="20260715T173627Z">
