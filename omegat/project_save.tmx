@@ -463,6 +463,17 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Place source files in ./source and supplementary
+material in ./tm, ./glossary, and ./dictionary as required, then commit
+everything.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260715T165005Z" creationid="Prasanta" creationdate="20260715T165005Z">
+        <seg>ᱥᱨᱚᱛ ᱨᱮᱫ ᱠᱚ ./source ᱨᱮ ᱫᱚᱦᱚᱭ ᱢᱮ ᱟᱨ ᱥᱚᱯᱞᱤᱢᱮᱱᱴᱟᱨᱤ
+ᱡᱤᱱᱤᱥ ᱫᱚ ./tm, ./glossary ᱨᱮ, ᱟᱨ ./dictionary ᱨᱮ ᱞᱟᱹᱠᱛᱤ ᱞᱮᱠᱟ ᱡᱤᱱᱤᱥ ᱫᱚᱦᱚ ᱠᱟᱛᱮ ᱠᱚᱢᱤᱴ ᱢᱮ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Project manager</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173414Z" creationid="Prasanta" creationdate="20220104T173414Z">
