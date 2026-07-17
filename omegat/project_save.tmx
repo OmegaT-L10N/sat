@@ -866,6 +866,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>URL Error</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130725Z" creationid="Prasanta" creationdate="20260717T130536Z">
+        <seg>URL ᱨᱮ ᱵᱷᱩᱞ ᱦᱩᱭᱮᱱᱟ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Usage: java -jar [&lt;java options&gt;] OmegaT.jar [&lt;OmegaT options&gt;] [&lt;project path&gt;]</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260114T181002Z" creationid="Prasanta" creationdate="20240529T025455Z">
