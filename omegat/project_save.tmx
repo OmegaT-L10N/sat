@@ -318,6 +318,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Add Files to Source Folder...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130232Z" creationid="Prasanta" creationdate="20260717T130232Z">
+        <seg>ᱥᱨᱚᱛ ᱯᱚᱴᱚᱢ ᱨᱮ ᱨᱮᱫᱽ ᱠᱚ ᱥᱮᱞᱮᱫ ᱢᱮ ...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Pa&amp;ge...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130312Z" creationid="Prasanta" creationdate="20260717T130312Z">
+        <seg>MediaWiki ᱥᱟᱦᱴᱟ ᱥᱮᱞᱮᱫ ᱢᱮ... (&amp;g)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add MediaWiki Page</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130326Z" creationid="Prasanta" creationdate="20260717T130326Z">
+        <seg>MediaWiki ᱥᱟᱦᱴᱟ ᱥᱮᱞᱮᱫ ᱢᱮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Alex Buloichik</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173452Z" creationid="Prasanta" creationdate="20220104T173452Z">
@@ -666,6 +690,14 @@ everything.</seg>
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Provided URL is invalid.</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130525Z" creationid="Prasanta" creationdate="20260717T130525Z">
+        <seg>ᱮᱢ ᱟᱠᱟᱱ URL ᱫᱚ ᱵᱟᱝ ᱴᱷᱤᱠ ᱟ ᱾</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R&amp;emove</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20240602T082731Z" creationid="Prasanta" creationdate="20211224T075107Z">
@@ -822,6 +854,14 @@ everything.</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220120T145818Z" creationid="Prasanta" creationdate="20220120T145818Z">
         <seg>ᱴᱨᱮᱱᱤᱝ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>URL</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130328Z" creationid="Prasanta" creationdate="20260717T130328Z">
+        <seg>URL</seg>
       </tuv>
     </tu>
     <tu>
