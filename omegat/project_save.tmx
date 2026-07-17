@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>&amp;Clear Menu</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130032Z" creationid="Prasanta" creationdate="20260717T130032Z">
+        <seg>&amp;ᱢᱮᱱᱩ ᱥᱟᱯᱷᱭ ᱢᱮ (&amp;C)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>&amp;Close</seg>
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20260715T165451Z" creationid="Prasanta" creationdate="20211224T074624Z">
@@ -298,6 +306,14 @@
       </tuv>
       <tuv lang="sat" changeid="Prasanta" changedate="20220104T173432Z" creationid="Prasanta" creationdate="20220104T173432Z">
         <seg>ᱟᱨᱚᱱ ᱢᱟᱰᱞᱚᱱᱼᱠᱮᱭ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Add &amp;Files...</seg>
+      </tuv>
+      <tuv lang="sat" changeid="Prasanta" changedate="20260717T130112Z" creationid="Prasanta" creationdate="20260717T130105Z">
+        <seg>ᱨᱮᱫᱽ ᱠᱚ ᱥᱮᱞᱮᱫᱽ ᱢᱮ... (&amp;F)</seg>
       </tuv>
     </tu>
     <tu>
