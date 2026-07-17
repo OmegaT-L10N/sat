@@ -20,3 +20,5 @@ project	ᱯᱟᱱᱛᱷᱟ
 OmegaT	OmegaT
 software	ᱥᱚᱯᱷᱴᱣᱮᱨ
 languages	ᱯᱟᱹᱨᱥᱤᱠᱚ
+Error	ᱵᱷᱩᱞ
+Error	ᱰᱤᱜᱟᱹᱣ
